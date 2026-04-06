@@ -36,16 +36,19 @@ Follow these instructions to get a copy of the project up and running on your lo
 * npm or yarn
 * [Android Studio](https://developer.android.com/studio) (for Android development)
 * [Xcode](https://developer.apple.com/xcode/) (for iOS development - Mac only)
-## Project Structure
+### 📂 Project Structure
+
+```text
 manga-v3/
-├── android/          # Native Android source code
-├── src/              # Frontend UI code (React/Vue/etc.)
-│   ├── assets/       # Static assets (images, icons)
-│   ├── components/   # Reusable UI components
-│   ├── pages/        # App screens/views
-│   └── utils/        # Utility functions (e.g., zipUtils.ts)
+├── android/            # Native Android source code
+├── src/                # Frontend UI code (React/Vue/etc.)
+│   ├── assets/         # Static assets (images, icons)
+│   ├── components/     # Reusable UI components
+│   ├── pages/          # App screens/views
+│   └── utils/          # Utility functions (e.g., zipUtils.ts)
 ├── capacitor.config.ts # Capacitor configuration
-└── package.json      # Dependencies and scripts
+└── package.json        # Dependencies and scripts
+```
 
 ## 🤝 Contributing
 * Contributions are always welcome!
