@@ -37,9 +37,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 * [Android Studio](https://developer.android.com/studio) (for Android development)
 * [Xcode](https://developer.apple.com/xcode/) (for iOS development - Mac only)
 
-### Installation
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/yourusername/manga-v3.git](https://github.com/yourusername/manga-v3.git)
-   cd manga-v3
+
+
