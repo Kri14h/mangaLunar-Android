@@ -1,0 +1,31 @@
+{
+  "name": "mangalunar-v3",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor-community/text-to-speech": "^8.0.0",
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/core": "^8.3.0",
+    "@capacitor/filesystem": "^8.1.2",
+    "@capacitor/preferences": "^8.0.1",
+    "@capawesome/capacitor-file-picker": "^8.0.2",
+    "@capgo/capacitor-zip": "^8.1.5",
+    "@pantrist/capacitor-plugin-ml-kit-text-recognition": "^8.0.0",
+    "jszip": "^3.10.1",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.3.0",
+    "@types/node": "^22.14.0",
+    "@vitejs/plugin-react": "^5.0.0",
+    "typescript": "~5.8.2",
+    "vite": "^6.2.0"
+  }
+}
